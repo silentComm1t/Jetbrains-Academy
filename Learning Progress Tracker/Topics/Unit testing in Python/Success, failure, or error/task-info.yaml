@@ -1,0 +1,21 @@
+type: matching
+custom_name: "Success, failure, or error?"
+captions:
+  - Success
+  - Failure
+  - Error
+options:
+  - ' The test raises an AssertionError exception'
+  - "The test passes, everything worked as supposed."
+  - The test raises an exception other than AssertionError
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10797#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

@@ -13,6 +13,7 @@ programming_language_version: 3.10
 environment: unittest
 content:
   - Learning Progress Tracker (Python)
+  - Topics
 additional_files:
   - name: .idea/inspectionProfiles/Project_Default.xml
     visible: true
